@@ -1,0 +1,8 @@
+mcp[cli]
+dotenv
+requests
+langgraph
+langchain_mcp_adapters
+langchain-groq
+langchain
+ipykernel 
